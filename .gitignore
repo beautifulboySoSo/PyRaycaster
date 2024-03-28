@@ -1,0 +1,13 @@
+Pipfile*
+
+# Build
+build/
+dist/
+__pycache__/
+
+# IDE
+.vscode/
+.pycharm/
+
+# OS
+.DS_Store
